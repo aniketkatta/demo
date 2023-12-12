@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/aniketkatta/demo",
   "name": "demoproj",
   "private": true,
   "version": "0.0.0",
@@ -28,3 +27,5 @@
     "vite": "^5.0.8"
   }
 }
+
+
